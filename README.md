@@ -40,3 +40,7 @@ The final step involves:
 ## Project Objective
 
 This project aims to leverage NLP techniques to enhance the analysis of legal documents, providing valuable insights and summaries that can aid in understanding Competition Law decisions more effectively.
+
+Contact Details:
+Mail: pa.malcav@gmail.com
+Linkedin: https://www.linkedin.com/in/piero-alexis-malca-vilchez-27b3b1129/ 
