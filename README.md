@@ -16,7 +16,7 @@ This repository is part of a personal project that aims to apply Natural Languag
 The code in this section:
 - Downloads a set of PDFs from given URLs.
 - Extracts the text content.
-- Preprocesses the text for further analysis, including tokenization and cleaning.
+- Preprocesses the text for further analysis.
 
 ### Extracting Outcomes of Decisions
 
